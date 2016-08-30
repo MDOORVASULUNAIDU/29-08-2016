@@ -131,10 +131,10 @@ public static void main(String args[])
 {
 
 
-Person p = new Person("dhasaradhi", "puttur");
+Person p = new Person("doorvasulu", "puttur");
 
 Student st=new Student("abc","puttur","B.Tech",2014,40000);
-Staff s=new Staff("dhasaradhi", "puttur","sietk",4000);
+Staff s=new Staff("doorvasulu", "puttur","sistk",4000);
 
 	 System.out.println(p.toString() + "\n");
         System.out.println(st.toString() + "\n");
